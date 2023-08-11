@@ -34,6 +34,15 @@
 # PROJECT DESCRIPTION:
 
 # LIBRARY IMPORT STATEMENTS:
+library(tidyverse)
+library(readxl)
+library(readr)
+library(janitor)
+library(ggplot2)
+library()
+
+# SET WORKING DIRECTORY
+setwd("C:/Users/elizabetha.leo/Documents/R Studio/ ")
 
 # DATA IMPORT:
 
